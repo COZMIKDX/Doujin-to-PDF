@@ -1,6 +1,7 @@
 import PySimpleGUI as sg
 from PIL import Image
 import os
+from sys import exit
 
 images = []
 first_image = ""
