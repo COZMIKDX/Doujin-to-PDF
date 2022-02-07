@@ -4,7 +4,7 @@ import os
 from sys import exit
 
 images = []
-first_image = ""
+first_image = None
 path = ""
 output_name = ""
 
